@@ -43,7 +43,7 @@ BloxLuck Predictor allows you to grow your inventory in Adopt Me! and Murder Mys
 ## 🕹️ How to Use?
 
 1. **Go to the Website**:
-   - Visit <a href="https://www.bloxybet.com/" target="_blank">Adopt Me</a>
+   - Visit <a href="https://www.bloxybet.com/" target="_blank">BloxyBet</a>
 
 2. **Open the Extensions Menu**:
    - In the top-right corner of your browser, click the **puzzle icon** to open the Extensions menu.
