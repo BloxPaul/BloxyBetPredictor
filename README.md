@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <h3>Bloxluck Predictor</h3>
+  <h3>Bloxybet Predictor</h3>
   Do you want to win?
   <br />
   <br />
