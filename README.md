@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/BloxPaul/ba-l-yoruz/tree/main?tab=readme-ov-file">
-    <img src="./logo.png" alt="Logo" width="200" height="125" style="background:white; vertical-align: middle;">
+    <img src="./logo.png" alt="Logo" width="270" height="125" style="background:white; vertical-align: middle;">
   </a>
 </h1>
 
